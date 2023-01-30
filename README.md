@@ -10,4 +10,4 @@ After that, you can run our dashboard by just opening a terminal (of course, in 
 
 streamlit run Overview.py
 
-### Have fun trying InsideInflation!
+### Have fun trying out InsideInflation!
