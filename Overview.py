@@ -11,7 +11,7 @@ import datetime as dt
 # This is the Overview part of our Inflation Dashboard App
 
 ### Set Up the Streamlit App
-st.set_page_config(page_title = "Inflation Dashboard", page_icon = ":bar_chart:", layout = "wide")
+st.set_page_config(page_title = "InsideInflation", page_icon = ":bar_chart:", layout = "wide")
 st.title(":bar_chart: Inflation Dashboard")
 st.markdown("##")
 
