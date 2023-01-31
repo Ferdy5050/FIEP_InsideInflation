@@ -12,7 +12,7 @@ import datetime as dt
 
 ### Set Up the Streamlit App
 st.set_page_config(page_title = "InsideInflation", page_icon = ":bar_chart:", layout = "wide")
-st.title(":bar_chart: Inflation Dashboard")
+st.title(":bar_chart: InsideInflation")
 st.markdown("##")
 
 st.session_state["shared"] = True
